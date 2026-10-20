@@ -2,7 +2,7 @@
   "name": "StashZen",
   "description": "A Stash client for Samsung Tizen TVs, built to be driven entirely with the remote.",
   "category": "media",
-  "repo": "Stashified/StashZen/",
+  "repo": "Stashified/StashZen",
   "repo_label": "StashZen",
   "source": "release",
   "branch": "main",
